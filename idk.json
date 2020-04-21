@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+     "Image":"Kitten.jpeg",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+      
+      
+    
+    
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+     "Image":"dream_dog.jpeg",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Franklin",
+    "species" : "turtle",
+    "Image":"turtle.jpeg",
+    "foods": {
+      "likes": ["Alage"],
+      "dislikes": ["cookies"]
+    }
+  }
+]
